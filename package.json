@@ -1,0 +1,25 @@
+{
+  "name": "hack2021",
+  "description": "https://reqres.in/",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satabdisikdar/hack2021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satabdisikdar/hack2021/issues"
+  },
+  "homepage": "https://github.com/satabdisikdar/hack2021#readme",
+  "devDependencies": {
+    "chromedriver": "^88.0.0",
+    "jest": "^26.6.3",
+    "nightwatch": "^1.5.1",
+    "supertest": "^6.1.3"
+  }
+}
