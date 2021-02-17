@@ -7,5 +7,5 @@ Includes-
 1. UI test- nightwatch
 2. API test- jest and supertest
 3. Endpoint performance
-4. Integration with Jenkins CI pipeline
+4. Jenkins CI integration
 
